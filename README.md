@@ -119,5 +119,11 @@ https://codepen.io/Harish_-Ammu/pen/WNVQGOw
 ```
 ## OUTPUT:
 
+![Screenshot 2024-09-29 182707](https://github.com/user-attachments/assets/c2941879-c36a-49fd-b5eb-d3187cbe80fc)
+
+![Screenshot 2024-09-29 182641](https://github.com/user-attachments/assets/8bc9c8e2-b672-403b-b4cd-3733b1182ac4)
+
+![Screenshot 2024-09-29 182652](https://github.com/user-attachments/assets/6d3783d2-6a3d-4fd2-9ca3-0f28ab8a8916)
+
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
