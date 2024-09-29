@@ -116,15 +116,15 @@ function unDo() {
 ```
 ## WEBSITE URL
 ```
-https://codepen.io/Harish_-Ammu/pen/WNVQGOw
+https://codepen.io/Harish_-Ammu/pen/bGXVBVW
 ```
 ## OUTPUT:
 
-![Screenshot 2024-09-29 182707](https://github.com/user-attachments/assets/c2941879-c36a-49fd-b5eb-d3187cbe80fc)
+![image](https://github.com/user-attachments/assets/090dd4e9-deed-404d-903a-07c67cff7031)
 
-![Screenshot 2024-09-29 182641](https://github.com/user-attachments/assets/8bc9c8e2-b672-403b-b4cd-3733b1182ac4)
+![image](https://github.com/user-attachments/assets/120e69ac-24e6-49c9-99c7-ff26daebb2cb)
 
-![Screenshot 2024-09-29 182652](https://github.com/user-attachments/assets/6d3783d2-6a3d-4fd2-9ca3-0f28ab8a8916)
+![image](https://github.com/user-attachments/assets/57ba13df-1a31-47cb-974a-dd8dbd167094)
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
