@@ -113,7 +113,7 @@ function unDo() {
     imageDiv.innerHTML = originalText;
 }
 ```
-## WEBSITE LINK
+## WEBSITE URL
 ```
 https://codepen.io/Harish_-Ammu/pen/WNVQGOw
 ```
