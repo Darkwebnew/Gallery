@@ -1,4 +1,4 @@
-# Ex.06 Book Front Cover Page Design
+# Ex-7: Interactive Image Gallery
 ## Date: 29-09-2024
 
 ## AIM:
